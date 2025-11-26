@@ -3,7 +3,7 @@
 Ao criar uma nova conta na **plataforma**, você terá acesso a **15 dias gratuitos** (a partir da data de início de faturamento) de **transcrição de áudio** como período de degustação. Durante esse tempo, todas as mensagens de áudio recebidas serão automaticamente convertidas em texto, facilitando a leitura e o atendimento aos clientes. Após esse período, a funcionalidade estará disponível para contratação.
 
 ::: info Como habilitar
-**Para saber como habilitar essa funcionalidade** [**clique aqui**](/documentacao/apps/transcricao-de-audio-com-ia).
+**Para saber como habilitar essa funcionalidade** [**clique aqui**](../../..../../../documentacao/apps/transcricao-de-audio-com-ia).
 :::
 
 ## Benefícios da transcrição de áudio

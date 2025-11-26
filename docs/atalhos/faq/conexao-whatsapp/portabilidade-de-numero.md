@@ -24,17 +24,17 @@ Antes de iniciar o processo de portabilidade, recomendamos verificar se o númer
 
 Acesse o [Gerenciador de Negócios da Meta](https://business.facebook.com/). Na lateral esquerda, role para baixo e clique em **'Informações da empresa'**.
 
-Verifique o **Status de verificação da empresa**. Mais informações sobre como acessar o portfólio empresarial [clique aqui](/atalhos/faq/portfolio-empresarial/informacoes-do-portfolio).
+Verifique o **Status de verificação da empresa**. Mais informações sobre como acessar o portfólio empresarial [clique aqui](../../portfolio-empresarial/informacoes-do-portfolio).
 
 ![Status de verificação](./assets/port-01.png)
 
 ::: info Verificação do Portfólio
-Veja aqui como fazer a [**verificação do portfólio empresarial**](/atalhos/faq/portfolio-empresarial/verificar-portfolio-empresarial)
+Veja aqui como fazer a [**verificação do portfólio empresarial**](../../portfolio-empresarial/verificar-portfolio-empresarial)
 :::
 
 ## Passo 2: Desative a autenticação em dois fatores
 
-Siga os passos descritos neste manual para [Desativar a autenticação em dois fatores](/atalhos/faq/portfolio-empresarial/desativar-autenticacao-em-dois-fatores).
+Siga os passos descritos neste manual para [Desativar a autenticação em dois fatores](../../portfolio-empresarial/desativar-autenticacao-em-dois-fatores).
 
 ![Desativar 2FA](./assets/port-02.png)
 
@@ -140,7 +140,7 @@ Clique em **"Finalizar"** para concluir a configuração.
 
 **Sobre a migração:**
 * É possível, e recomendado, migrar o número de **WABA** (conta do WhatsApp Business) porém **NÃO é possível** migrar o número de Portfólio Empresarial. Após a migração, o número continuará associado ao mesmo Gerenciador de Negócios em que já estava.
-* Na Meta não tem como fazer migração / portabilidade de conta empresarial. Se sua intenção for mudar o número para outra BM, será necessário [desconectar o número da API Oficial](/atalhos/faq/conexao-whatsapp/remover-numero-do-portfolio) e então fazer uma nova integração como se fosse um número novo.
+* Na Meta não tem como fazer migração / portabilidade de conta empresarial. Se sua intenção for mudar o número para outra BM, será necessário [desconectar o número da API Oficial](../../conexao-whatsapp/remover-numero-do-portfolio) e então fazer uma nova integração como se fosse um número novo.
 * Se o número a ser implantado estiver conectado à URA (Unidade de Resposta Audível) será necessário desativar a URA para receber o código de verificação.
 :::
 
