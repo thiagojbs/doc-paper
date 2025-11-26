@@ -74,7 +74,7 @@ No menu principal da **plataforma**, clique em **"Ajustes"**. Em seguida, acesse
 
 ### Passo 2: Canais de Atendimento
 
-Em seguida clique em **"Canais de Atendimento"** e por fim no **ícone** ![](/images/conexao-whatsapp/icon-plus.png).
+Em seguida clique em **"Canais de Atendimento"** e por fim no **ícone** ![](./assets/icon-plus.png).
 
 ![Canais de Atendimento](./assets/qr-09.png)
 

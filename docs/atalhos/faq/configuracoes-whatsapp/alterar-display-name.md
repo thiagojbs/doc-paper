@@ -13,19 +13,19 @@ O nome de exibição (Display Name) é a identificação pública do seu número
 
 Acesse o [Gerenciador de Negócios da Meta](https://business.facebook.com/). No painel principal da **portfólio empresarial**, clique em **"Configurações de Negócio"**.
 
-![Configurações de Negócio](/images/portfolio-empresarial/verificar-01.png)
+![Configurações de Negócio](../../portfolio-empresarial/assets/verificar-01.png)
 
 ## Passo 2: Acessar Contas do WhatsApp
 
 No menu lateral esquerdo, localize e clique em "**Contas do WhatsApp**". Em seguida, role o cursor da lateral direita até o fim e clique em "**Gerenciador de WhatasApp**".
 
-![Contas do WhatsApp](/images/portfolio-empresarial/logomarca-02.png)
+![Contas do WhatsApp](../../portfolio-empresarial/assets/logomarca-02.png)
 
 ## Passo 3: Gerenciador do WhatsApp
 
 Uma nova aba será exibida. Clique em **"Número de telefone"** e, em seguida, selecione o ícone de **engrenagem** localizado ao lado do número de telefone.
 
-![Gerenciador do WhatsApp](/images/portfolio-empresarial/logomarca-03.png)
+![Gerenciador do WhatsApp](../../portfolio-empresarial/assets/logomarca-03.png)
 
 ## Passo 4: Editar Nome de Exibição
 
