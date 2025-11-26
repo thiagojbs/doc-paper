@@ -25,7 +25,7 @@ Certifique-se de estar utilizando a conta vinculada ao WhatsApp que deseja edita
 
 No painel principal do **portfólio empresarial**, clique em **"Configurações de Negócio"**.
 
-![Configurações de Negócio](../../portfolio-empresarial/assets/verificar-01.png)
+![Configurações de Negócio](../portfolio-empresarial/assets/verificar-01.png)
 
 ### Passo 2: Acesse a Configuração do WhatsApp
 
@@ -33,13 +33,13 @@ No menu lateral esquerdo, localize e clique em "**Contas do WhatsApp**".
 
 Em seguida, role o cursor da lateral direita até o fim e clique em "**Gerenciador de WhatasApp**".
 
-![Contas do WhatsApp](../../portfolio-empresarial/assets/logomarca-02.png)
+![Contas do WhatsApp](../portfolio-empresarial/assets/logomarca-02.png)
 
 ### Passo 3: Gerenciador do WhatsApp
 
 Uma nova aba será exibida. Clique em **"Número de telefone"** e, em seguida, selecione o ícone de **engrenagem** localizado ao lado do número de telefone.
 
-![Gerenciador do WhatsApp](../../portfolio-empresarial/assets/logomarca-03.png)
+![Gerenciador do WhatsApp](../portfolio-empresarial/assets/logomarca-03.png)
 
 ### Passo 4: Edite o Perfil do WhatsApp
 
