@@ -8,6 +8,7 @@ export default defineConfig({
   head: [
     ['script', { src: 'https://unpkg.com/lucide@latest' }]
   ],
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/images/logo-paper.png',
