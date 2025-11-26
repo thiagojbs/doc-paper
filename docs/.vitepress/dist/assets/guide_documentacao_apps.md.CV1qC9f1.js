@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.CHDT0Kbg.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/documentacao/apps.md","filePath":"guide/documentacao/apps.md"}'),o={name:"guide/documentacao/apps.md"};function c(s,p,n,r,d,i){return t(),a("div")}const u=e(o,[["render",c]]);export{_ as __pageData,u as default};
