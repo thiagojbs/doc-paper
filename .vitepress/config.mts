@@ -92,8 +92,27 @@ export default defineConfig({
       {
         text: 'DOCUMENTAÇÃO',
         items: [
-          { text: 'Atendimento', link: '/documentacao/atendimento' },
-          { text: 'CRM', link: '/documentacao/crm' },
+          {
+            text: 'Atendimento',
+            link: '/documentacao/atendimento',
+            collapsed: true,
+            items: [
+              { text: 'Central de Atendimento', link: '/documentacao/atendimento/central-de-atendimento' },
+              { text: 'Operações no Atendimento', link: '/documentacao/atendimento/operacoes-no-atendimento' },
+              { text: 'Ferramentas de Interação', link: '/documentacao/atendimento/ferramentas-de-interacao' },
+              { text: 'Integração com o CRM', link: '/documentacao/atendimento/integracao-com-o-crm' },
+              { text: 'Grupos do Whatsapp', link: '/documentacao/atendimento/grupos-do-whatsapp' }
+            ]
+          },
+          {
+            text: 'CRM',
+            link: '/documentacao/crm',
+            collapsed: true,
+            items: [
+              { text: 'Contato', link: '/documentacao/crm/contato' },
+              { text: 'Carteiras', link: '/documentacao/crm/carteiras' }
+            ]
+          },
           {
             text: 'Apps',
             collapsed: true,
