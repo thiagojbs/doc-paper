@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Paper Vines",
+  srcDir: './docs',
   base: '/',
   description: "Documentação Oficial da Paper Vines",
   head: [
