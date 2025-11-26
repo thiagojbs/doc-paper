@@ -138,9 +138,37 @@ export default defineConfig({
               }
             ]
           },
-          { text: 'Relatórios', link: '/documentacao/relatorios' },
-          { text: 'Ajustes', link: '/documentacao/ajustes' },
-          { text: 'Outros', link: '/outros' }
+          {
+            text: 'Relatórios',
+            link: '/documentacao/relatorios',
+            collapsed: true,
+            items: [
+              { text: 'Atendimento', link: '/documentacao/relatorios/atendimento' },
+              { text: 'Consumo de Infraestrutura', link: '/documentacao/relatorios/consumo-de-infraestrutura' }
+            ]
+          },
+          {
+            text: 'Ajustes',
+            link: '/documentacao/ajustes',
+            collapsed: true,
+            items: [
+              { text: 'Conta', link: '/documentacao/ajustes/conta' },
+              { text: 'Equipes', link: '/documentacao/ajustes/equipes' },
+              { text: 'Integrações', link: '/documentacao/ajustes/integracoes' },
+              { text: 'Modelo de Mensagens', link: '/documentacao/ajustes/modelo-de-mensagens' },
+              { text: 'Usuários', link: '/documentacao/ajustes/usuarios' }
+            ]
+          },
+          {
+            text: 'Outros',
+            link: '/outros',
+            collapsed: true,
+            items: [
+              { text: 'Alterar Informações do Meu Usuário', link: '/outros/alterar-informacoes-do-meu-usuario' },
+              { text: 'Como Alternar Entre Contas na plataforma', link: '/outros/como-alternar-entre-contas' },
+              { text: 'Como Ativar as Notificações Web na Plataforma', link: '/outros/como-ativar-notificacoes-web' }
+            ]
+          }
         ]
       }
     ],
