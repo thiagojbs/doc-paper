@@ -4,12 +4,12 @@ O módulo de Atendimento da plataforma foi projetado para otimizar e simplificar
 
 A seguir, abordaremos cada uma dessas funcionalidades, mostrando como utilizá-las para proporcionar uma experiência de atendimento de qualidade e garantir a melhor interação possível com os seus clientes.
 
-### [<i data-lucide="building"></i> Central de Atendimento](/documentacao/atendimento/comece-aqui)
+### [<i data-lucide="building"></i> Central de Atendimento](./atendimento/comece-aqui)
 
-### [<i data-lucide="zap"></i> Operações no Atendimento](/documentacao/atendimento/operacoes-de-atendimento)
+### [<i data-lucide="zap"></i> Operações no Atendimento](./atendimento/operacoes-de-atendimento)
 
-### [<i data-lucide="wrench"></i> Ferramentas de Interação](/documentacao/atendimento/ferramentas-de-interacao)
+### [<i data-lucide="wrench"></i> Ferramentas de Interação](./atendimento/ferramentas-de-interacao)
 
-### [<i data-lucide="link-2"></i> Integração com o CRM](/documentacao/atendimento/integracao-atendimento-x-crm)
+### [<i data-lucide="link-2"></i> Integração com o CRM](./atendimento/integracao-atendimento-x-crm)
 
-### [<i data-lucide="users"></i> Grupos do Whatsapp](/documentacao/atendimento/gestao-de-grupos-no-atendimento)
+### [<i data-lucide="users"></i> Grupos do Whatsapp](./atendimento/gestao-de-grupos-no-atendimento)

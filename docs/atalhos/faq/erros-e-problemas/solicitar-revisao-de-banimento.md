@@ -54,7 +54,7 @@ Você verá o status como:
 
 ### Passo 4: Acesse a página inicial de suporte
 
-Se a conta estiver **bloqueada ou desabilitada**, acesse a [**página inicial de suporte**](../../erros-e-problemas/acessar-pagina-de-suporte) para solicitar a revisão e desbloqueio.
+Se a conta estiver **bloqueada ou desabilitada**, acesse a [**página inicial de suporte**](../erros-e-problemas/acessar-pagina-de-suporte) para solicitar a revisão e desbloqueio.
 
 * Clique nas **três barras** no canto superior esquerdo
 * Em seguida, abrirá um menu — selecione **"Página inicial de suporte"** para acessar as informações do bloqueio
