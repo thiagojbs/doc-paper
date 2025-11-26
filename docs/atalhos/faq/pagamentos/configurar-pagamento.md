@@ -13,19 +13,19 @@ Faça login na sua conta pelo site [Meta Business Manager](https://business.face
 
 No menu lateral, clique em **Configurações do Negócio**.
 
-![Configurações do Negócio](/images/pagamentos/config-01.png)
+![Configurações do Negócio](./assets/config-01.png)
 
 ## Passo 2: Acessar Configurações de Pagamento
 
 Na BM, selecione '**Conta do WhatsApp**'. Em seguida, no canto inferior direito, acesse '**Configurações de Pagamento**'.
 
-![Configurações de Pagamento](/images/pagamentos/config-02.png)
+![Configurações de Pagamento](./assets/config-02.png)
 
 ## Passo 3: Adicionar forma de pagamento
 
 Clique no botão **Adicionar forma de pagamento**, cadastre o número do cartão (ou selecione o cartão padrão da empresa, caso já tenha preenchido algum) preencha os dados da empresa antes de salvar.
 
-![Adicionar forma de pagamento](/images/pagamentos/config-03.png)
+![Adicionar forma de pagamento](./assets/config-03.png)
 
 ## Passo 4: Preencher Informações do Negócio
 
@@ -37,7 +37,7 @@ Uma janela será aberta solicitando informações adicionais:
 
 Após preencher todas as informações, clique em "Avançar".
 
-![Informações do Negócio](/images/pagamentos/config-04.png)
+![Informações do Negócio](./assets/config-04.png)
 
 ## Passo 5: Inserir os Dados do Cartão de Crédito
 
@@ -50,7 +50,7 @@ Agora, você precisará fornecer os detalhes do seu cartão de crédito ou débi
 
 Após inserir todas as informações corretamente, clique em **"Salvar"** para concluir o processo.
 
-![Dados do Cartão](/images/pagamentos/config-05.png)
+![Dados do Cartão](./assets/config-05.png)
 
 ## Considerações Finais
 

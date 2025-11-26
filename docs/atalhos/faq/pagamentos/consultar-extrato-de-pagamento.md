@@ -14,13 +14,13 @@ Faça login na sua conta pelo site [Meta Business Manager](https://business.face
 
 No menu lateral, clique em **Configurações do Negócio**.
 
-![Configurações do Negócio](/images/pagamentos/config-01.png)
+![Configurações do Negócio](./assets/config-01.png)
 
 ## Passo 2: Acessar Configurações de Pagamento
 
 Na BM, selecione '**Conta do WhatsApp**'. Em seguida, no canto inferior direito, acesse '**Configurações de Pagamento**'.
 
-![Configurações de Pagamento](/images/pagamentos/extrato-01.png)
+![Configurações de Pagamento](./assets/extrato-01.png)
 
 ## Passo 3: Visualizar Atividade de Pagamento
 
@@ -37,7 +37,7 @@ Uma nova aba se abrirá, clique na opção **atividade de pagamento**.
 * Caso precise manter um registro, clique na opção **Baixar extrato**.
 * O arquivo será gerado em formato PDF ou CSV para análise detalhada.
 
-![Atividade de Pagamento](/images/pagamentos/extrato-02.png)
+![Atividade de Pagamento](./assets/extrato-02.png)
 
 ## Considerações Finais
 

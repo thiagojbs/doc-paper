@@ -15,7 +15,7 @@ Faça login na sua conta pelo site [Meta Business Manager](https://business.face
 
 No menu lateral, clique em **Configurações do Negócio**.
 
-![Configurações do Negócio](/images/portfolio-empresarial/logomarca-01.png)
+![Configurações do Negócio](./assets/logomarca-01.png)
 
 ## Passo 2: Acessar a Configuração do WhatsApp
 
@@ -23,13 +23,13 @@ No menu lateral esquerdo, localize e clique em "**Contas do WhatsApp**".
 
 Em seguida, role o cursor da lateral direita até o fim e clique em "**Gerenciador de WhatasApp**".
 
-![Contas do WhatsApp](/images/portfolio-empresarial/logomarca-02.png)
+![Contas do WhatsApp](./assets/logomarca-02.png)
 
 ## Passo 3: Gerenciador do WhatsApp
 
 Uma nova aba será exibida. Clique em **"Número de telefone"** e, em seguida, selecione o ícone de **engrenagem** localizado ao lado do número de telefone.
 
-![Gerenciador do WhatsApp](/images/portfolio-empresarial/logomarca-03.png)
+![Gerenciador do WhatsApp](./assets/logomarca-03.png)
 
 ## Passo 4: Editar o Perfil do WhatsApp
 
@@ -37,13 +37,13 @@ Dentro das configurações do número selecionado, localize a seção **"Perfil"
 
 Clique no menu Perfil e, logo abaixo do texto **Foto do perfil**, clique no botão escolher arquivo.
 
-![Editar Perfil](/images/portfolio-empresarial/logomarca-04.png)
+![Editar Perfil](./assets/logomarca-04.png)
 
 ## Passo 5: Alterar descrição e informações
 
 Para alterar descrição ou demais informações, role o cursor e na opção **"Descrição"** você pode inserir as informações que deseja.
 
-![Alterar descrição](/images/portfolio-empresarial/logomarca-05.png)
+![Alterar descrição](./assets/logomarca-05.png)
 
 ## Considerações Finais
 

@@ -54,13 +54,13 @@ Atualize os campos necessários, como:
 * **Endereço e Localização:** Altere o endereço comercial, se necessário.
 * **Site:** Insira ou atualize a URL oficial da empresa.
 
-![Editar Perfil](/images/configuracoes-whatsapp/perfil-01.png)
+![Editar Perfil](./assets/perfil-01.png)
 
 ### Passo 5: Salvar alterações
 
 Após realizar as edições desejadas, clique em **salvar**.
 
-![Salvar alterações](/images/configuracoes-whatsapp/perfil-02.png)
+![Salvar alterações](./assets/perfil-02.png)
 
 ## Pontos de Atenção
 

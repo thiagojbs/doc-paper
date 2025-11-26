@@ -4,7 +4,7 @@ Esta página contém os principais códigos de erro retornados pela API da Meta 
 
 ## Erro 131049 - Envio de Template Messenger de Marketing
 
-![Erro 131049](/images/erros-e-problemas/erro-131049.png)
+![Erro 131049](./assets/erro-131049.png)
 
 ::: danger Mensagem de Erro
 Meta recusou enviar esse modelo (Marketing) para manter o engajamento saudável do ecossistema.
@@ -32,7 +32,7 @@ Em alguns casos, a Meta decide que um número de telefone já recebeu muitas men
 
 ## Erro 131056 - Limite de volume de envios de mensagens atingido
 
-![Erro 131056](/images/erros-e-problemas/erro-131056.png)
+![Erro 131056](./assets/erro-131056.png)
 
 ::: danger Mensagem de Erro
 Foram enviadas muitas mensagens do número de telefone do remetente para o mesmo número de telefone do destinatário em um curto período.
@@ -54,7 +54,7 @@ O erro de envio de mensagens acontece principalmente quando muitas mensagens sã
 
 ## Erro 130472 - Experimento da Meta
 
-![Erro 130472](/images/erros-e-problemas/erro-130472.png)
+![Erro 130472](./assets/erro-130472.png)
 
 ::: danger Mensagem de Erro
 O número do usuário faz parte de um experimento do WhatsApp, não é possível iniciar esta conversa. Escolha uma das opções abaixo.
@@ -73,7 +73,7 @@ Esse erro faz parte de um **experimento da Meta** que está sendo aplicado a **1
 
 ## Erro 131042 - Problema com pagamento
 
-![Erro 131042](/images/erros-e-problemas/erro-131042.png)
+![Erro 131042](./assets/erro-131042.png)
 
 ::: danger Mensagem de Erro
 A Meta recusou enviar sua mensagem, isso está relacionado à tentativa de faturar conversas no cartão de crédito.
@@ -102,7 +102,7 @@ O **Erro 131042** ocorre quando a Meta enfrenta dificuldades para processar o pa
 
 ## Erro 131026 - Número não registrado no WhatsApp
 
-![Erro 131026](/images/erros-e-problemas/erro-131026.png)
+![Erro 131026](./assets/erro-131026.png)
 
 ::: danger Mensagem de Erro
 Não foi possível entregar a mensagem. O número de telefone do destinatário não está registrado no WhatsApp ou o destinatário não aceitou os novos Termos de Serviço e a nova Política de Privacidade.
@@ -128,7 +128,7 @@ O **Erro 131026** ocorre quando uma tentativa de enviar uma mensagem para um nú
 
 ## Erro 131000 - Erro desconhecido
 
-![Erro 131000](/images/erros-e-problemas/erro-131000.png)
+![Erro 131000](./assets/erro-131000.png)
 
 ::: danger Mensagem de Erro
 Falha ao enviar a mensagem devido a um erro desconhecido.
@@ -152,7 +152,7 @@ Caso esse erro ocorra logo após a conexão do número na API Oficial, exclua to
 
 ## Erro 135000 - Falha ao enviar mensagem
 
-![Erro 135000](/images/erros-e-problemas/erro-135000.png)
+![Erro 135000](./assets/erro-135000.png)
 
 ::: danger Mensagem de Erro
 Falha ao enviar a mensagem devido a um erro desconhecido com seus parâmetros de solicitação.
@@ -178,7 +178,7 @@ Solicite a um usuário com permissão de **super administrador** que sincronize 
 
 ## Erro 131047 - Mais de 24h sem contato
 
-![Erro 131047](/images/erros-e-problemas/erro-131047.png)
+![Erro 131047](./assets/erro-131047.png)
 
 ::: danger Mensagem de Erro
 Mais de 24 horas se passaram desde que o destinatário respondeu pela última vez ao número do remetente. Envie uma mensagem iniciada pela empresa usando um modelo de mensagem.
@@ -200,7 +200,7 @@ Se o número do contato for editado durante uma conversa (ex: adicionar o nono d
 
 ## Erro 131048 - Parâmetro ausente ou inválido
 
-![Erro 131048](/images/erros-e-problemas/erro-131048.png)
+![Erro 131048](./assets/erro-131048.png)
 
 ::: danger Mensagem de Erro
 Falha ao enviar a mensagem devido a um limite de envios que pode ser feito deste número de telefone.
@@ -226,7 +226,7 @@ O erro **Meta 131048** ocorre quando há um parâmetro ausente ou inválido na s
 
 ## Erro 132001 - Modelo não existe
 
-![Erro 132001](/images/erros-e-problemas/erro-132001.png)
+![Erro 132001](./assets/erro-132001.png)
 
 ::: danger Mensagem de Erro
 O modelo não existe no idioma especificado ou não foi aprovado.
@@ -253,7 +253,7 @@ O erro 132001 ocorre quando você tenta enviar um **modelo de mensagem** que nã
 
 ## Erro 131031 - Conta restrita ou bloqueada
 
-![Erro 131031](/images/erros-e-problemas/erro-131031-1.png)
+![Erro 131031](./assets/erro-131031-1.png)
 
 ::: danger Mensagem de Erro
 A conta do WhatsApp Business associada ao app foi restringida ou desabilitada por violar uma política da plataforma.
@@ -272,11 +272,11 @@ O erro 131031 ocorre quando a conta do WhatsApp Business está **restrita** ou *
 
 **Verifique mensagens da Meta:**
 1. Faça login na Business Manager
-2. No menu lateral, clique em ![](/images/erros-e-problemas/erro-131031-icon.png)
+2. No menu lateral, clique em ![](./assets/erro-131031-icon.png)
 3. Clique em **'Página Inicial do Suporte para empresas'**
 4. Verifique se há notificações da Meta
 
-![Página de Suporte](/images/erros-e-problemas/erro-131031-2.png)
+![Página de Suporte](./assets/erro-131031-2.png)
 
 **Outras ações:**
 * Revise as políticas de uso da Meta
@@ -289,7 +289,7 @@ O erro 131031 ocorre quando a conta do WhatsApp Business está **restrita** ou *
 
 ## Erro 100 - Mensagem não suportada
 
-![Erro 100](/images/erros-e-problemas/erro-100.png)
+![Erro 100](./assets/erro-100.png)
 
 ::: danger Mensagem de Erro
 Solicitação POST não suportada. O objeto com o ID 'messages' não existe, não pode ser carregado devido a permissões ausentes, ou não suporta esta operação. Por favor, leia a documentação da Graph API em <https://developers.facebook.com/docs/graph-api>.
@@ -314,7 +314,7 @@ Solicitação POST não suportada. O objeto com o ID 'messages' não existe, nã
 
 ## Erro 131051 - Mensagem não suportada pela API
 
-![Erro 131051](/images/erros-e-problemas/erro-131051.png)
+![Erro 131051](./assets/erro-131051.png)
 
 ::: danger Mensagem de Erro
 **"Mensagem não suportada pela API"**

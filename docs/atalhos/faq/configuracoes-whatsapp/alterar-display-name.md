@@ -31,13 +31,13 @@ Uma nova aba será exibida. Clique em **"Número de telefone"** e, em seguida, s
 
 Uma nova tela será exibida. Selecione a opção **"Perfil"**, logo abaixo aparecerá a opção **"Nome de Exibição"**, clique em **"Editar"**.
 
-![Editar Nome de Exibição](/images/configuracoes-whatsapp/display-name-01.png)
+![Editar Nome de Exibição](./assets/display-name-01.png)
 
 ## Passo 5: Enviar novo nome
 
 Digite o nome que deseja utilizar, não se esqueça de verificar se o nome segue as [diretrizes de nomenclatura do WhatsApp](https://web.facebook.com/business/help/338047025165344?_rdc=1&_rdr). Em seguida clique em **"Enviar"**. A alteração será analisada pela **Meta**.
 
-![Enviar novo nome](/images/configuracoes-whatsapp/display-name-02.png)
+![Enviar novo nome](./assets/display-name-02.png)
 
 ## Considerações finais
 

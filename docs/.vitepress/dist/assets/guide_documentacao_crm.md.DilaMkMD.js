@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.CHDT0Kbg.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/documentacao/crm.md","filePath":"guide/documentacao/crm.md"}'),c={name:"guide/documentacao/crm.md"};function o(r,n,d,m,s,i){return a(),t("div")}const u=e(c,[["render",o]]);export{_ as __pageData,u as default};

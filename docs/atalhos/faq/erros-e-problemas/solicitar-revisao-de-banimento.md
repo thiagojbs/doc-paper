@@ -34,7 +34,7 @@ Se sua conta foi bloqueada indevidamente, siga este processo para solicitar uma 
 * Faça login com o usuário administrador da conta
 * Clique em **Conta do WhatsApp**
 
-![Conta do WhatsApp](/images/erros-e-problemas/revisao-01.png)
+![Conta do WhatsApp](./assets/revisao-01.png)
 
 ### Passo 2: Abra o Gerenciador do WhatsApp
 
@@ -42,15 +42,15 @@ Se sua conta foi bloqueada indevidamente, siga este processo para solicitar uma 
 * Role o cursor até encontrar a opção **Status da Conta**
 * Nesse campo, será exibido o **status atual da conta**, permitindo que você verifique se está ativa ou se há alguma pendência
 
-![Status da Conta](/images/erros-e-problemas/revisao-02.png)
+![Status da Conta](./assets/revisao-02.png)
 
 ### Passo 3: Verifique o status da conta
 
 Você verá o status como:
 
-![Status Conectada](/images/erros-e-problemas/revisao-03.png)
+![Status Conectada](./assets/revisao-03.png)
 
-![Status Desabilitada](/images/erros-e-problemas/revisao-04.png)
+![Status Desabilitada](./assets/revisao-04.png)
 
 ### Passo 4: Acesse a página inicial de suporte
 
@@ -59,7 +59,7 @@ Se a conta estiver **bloqueada ou desabilitada**, acesse a [**página inicial de
 * Clique nas **três barras** no canto superior esquerdo
 * Em seguida, abrirá um menu — selecione **"Página inicial de suporte"** para acessar as informações do bloqueio
 
-![Página inicial de suporte](/images/erros-e-problemas/revisao-05.png)
+![Página inicial de suporte](./assets/revisao-05.png)
 
 ### Passo 5: Localize as informações da conta
 
@@ -67,7 +67,7 @@ Na **página inicial do suporte**, role o cursor até a seção onde constam as 
 
 * Em seguida, clique sobre o **status da conta** que deseja verificar
 
-![Informações da conta](/images/erros-e-problemas/revisao-06.png)
+![Informações da conta](./assets/revisao-06.png)
 
 ### Passo 6: Visualize os detalhes do bloqueio
 
@@ -77,7 +77,7 @@ Ao clicar no status da conta dentro do **Meta Business Manager**, você será re
 * A data em que a restrição foi aplicada
 * As ações disponíveis no momento, como a opção "Request Review" (Pedir Análise) para contestar a decisão
 
-![Detalhes do bloqueio](/images/erros-e-problemas/revisao-07.png)
+![Detalhes do bloqueio](./assets/revisao-07.png)
 
 ### Passo 7: Solicite a revisão
 
@@ -85,7 +85,7 @@ Para solicitar a revisão, clique no botão **"Pedir Análise"** e siga as instr
 
 Explique que a conta está sendo usada para fins legítimos (atendimento ao cliente, vendas, suporte etc.).
 
-![Pedir Análise](/images/erros-e-problemas/revisao-08.png)
+![Pedir Análise](./assets/revisao-08.png)
 
 ## Após o envio
 

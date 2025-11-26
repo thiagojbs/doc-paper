@@ -13,19 +13,19 @@ Em determinadas situações, pode ser necessário **remover um número de telefo
 
 Acesse o [Gerenciador de Negócios da Meta](https://business.facebook.com/). No painel principal do **portfólio empresarial**, selecione a empresa correta e clique no ícone de **engrenagem**.
 
-![Gerenciador de Negócios](/images/conexao-whatsapp/remover-numero-01.png)
+![Gerenciador de Negócios](./assets/remover-numero-01.png)
 
 ## Passo 2: Acessar Contas do WhatsApp
 
 No menu lateral esquerdo, localize e clique em "**Contas do WhatsApp**". Em seguida, role o cursor da lateral direita até o fim e clique em "**Gerenciador de WhatasApp**".
 
-![Contas do WhatsApp](/images/conexao-whatsapp/remover-numero-02.png)
+![Contas do WhatsApp](./assets/remover-numero-02.png)
 
 ## Passo 3: Gerenciador do WhatsApp
 
 Uma nova aba será exibida. Clique no ícone de **lixeira** localizado ao lado do número de telefone.
 
-![Ícone de lixeira](/images/conexao-whatsapp/remover-numero-03.png)
+![Ícone de lixeira](./assets/remover-numero-03.png)
 
 ## Passo 4: Confirmar exclusão do número
 
@@ -35,7 +35,7 @@ Uma janela pop-up será exibida para confirmar a exclusão do número. Clique em
 Esse processo é irreversível.
 :::
 
-![Confirmar exclusão](/images/conexao-whatsapp/remover-numero-04.png)
+![Confirmar exclusão](./assets/remover-numero-04.png)
 
 ## Passo 5: Excluir a WABA (WhatsApp Business Account)
 
@@ -43,13 +43,13 @@ Após remover o número da conta, acesse novamente o [Gerenciador de Negócios d
 
 No menu lateral, clique em "**Contas do WhatsApp**" e selecione a **WABA** que deseja excluir. Em seguida, clique no ícone de três pontinhos no canto superior direito da tela. Será exibido um menu de opções — selecione "**Remover do Portfólio Empresarial**" para iniciar o processo de exclusão.
 
-![Remover do Portfólio](/images/conexao-whatsapp/remover-numero-05.png)
+![Remover do Portfólio](./assets/remover-numero-05.png)
 
 ## Passo 6: Confirmar exclusão da conta
 
 Uma janela pop-up será exibida para confirmar a exclusão da conta. Clique em **"Excluir conta"** para prosseguir com a remoção.
 
-![Excluir conta](/images/conexao-whatsapp/remover-numero-06.png)
+![Excluir conta](./assets/remover-numero-06.png)
 
 ## Considerações Finais
 

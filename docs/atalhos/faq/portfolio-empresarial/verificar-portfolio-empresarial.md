@@ -17,19 +17,19 @@ Faça login na sua conta da Meta Business Manager: [**https://business.facebook.
 
 No painel principal da **Meta Business Manager,** clique em **"Configurações de Negócio"**.
 
-![Configurações de Negócio](/images/portfolio-empresarial/verificar-01.png)
+![Configurações de Negócio](./assets/verificar-01.png)
 
 ## Passo 2: Iniciar Verificação
 
 Selecione a opção "**Centro de Segurança"**, localize a opção "**Verificação da Empresa**" e clique em "**Começar Verificação**".
 
-![Centro de Segurança - Verificação da Empresa](/images/portfolio-empresarial/verificar-02.png)
+![Centro de Segurança - Verificação da Empresa](./assets/verificar-02.png)
 
 ## Passo 3: Começar o processo
 
 Uma nova aba será aberta. Clique em **"Começar"**.
 
-![Começar verificação](/images/portfolio-empresarial/verificar-03.png)
+![Começar verificação](./assets/verificar-03.png)
 
 ## Passo 4: Enviando as Informações da Empresa
 
@@ -49,7 +49,7 @@ Após preencher todos os dados solicitados, clique em avançar.
 
 Chegará uma tela para conferir os detalhes, após a conferência, clique em avançar.
 
-![Conferir detalhes](/images/portfolio-empresarial/verificar-04.png)
+![Conferir detalhes](./assets/verificar-04.png)
 
 ## Passo 6: Conclusão e Acompanhamento da Verificação
 

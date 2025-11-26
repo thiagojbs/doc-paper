@@ -15,13 +15,13 @@ Acesse o site oficial: [https://business.facebook.com/](https://business.faceboo
 
 No menu lateral esquerdo, clique em **"Gerenciador de Negócios"**.
 
-![Gerenciador de Negócios](/images/portfolio-empresarial/informacoes-01.png)
+![Gerenciador de Negócios](./assets/informacoes-01.png)
 
 ## Passo 2: Acessar Informações da Empresa
 
 Uma nova aba será aberta. Na lateral esquerda, role para baixo e clique em **'Informações da empresa'**.
 
-![Informações da empresa](/images/portfolio-empresarial/informacoes-02.png)
+![Informações da empresa](./assets/informacoes-02.png)
 
 ## Passo 3: Editar Informações
 
@@ -31,15 +31,15 @@ A tela para edição das informações da empresa será exibida. Clique no ícon
 Preencha todos os campos corretamente, pois para integrar um número, é imprescindível que esses dados estejam completos e que o **site da empresa** esteja ativo e com **certificado de segurança**.
 :::
 
-![Editar informações](/images/portfolio-empresarial/informacoes-03.png)
+![Editar informações](./assets/informacoes-03.png)
 
-![Formulário de edição](/images/portfolio-empresarial/informacoes-04.png)
+![Formulário de edição](./assets/informacoes-04.png)
 
 ## Passo 4: Salvar alterações
 
 Após o preenchimento clique em **salvar**.
 
-![Salvar informações](/images/portfolio-empresarial/informacoes-05.png)
+![Salvar informações](./assets/informacoes-05.png)
 
 ## Considerações Finais
 

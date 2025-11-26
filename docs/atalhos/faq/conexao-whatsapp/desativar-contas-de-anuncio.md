@@ -18,19 +18,19 @@ Este artigo orienta como localizar e desativar essas contas de anúncio.
 * Selecione o **Business Manager (BM)** onde a conta de anúncio foi criada.
 * Na lateral esquerda clique na opção: **Configurações da conta de anúncios.**
 
-![Configurações da conta de anúncios](/images/conexao-whatsapp/desativar-ads-01.png)
+![Configurações da conta de anúncios](./assets/desativar-ads-01.png)
 
 ### Passo 2: Localizar opção de desativação
 
 Uma nova aba será exibida. Logo abaixo da seção "**Pagamentos da empresa**", localize a opção **"Desativar conta de anúncios"** e clique nela.
 
-![Desativar conta de anúncios](/images/conexao-whatsapp/desativar-ads-02.png)
+![Desativar conta de anúncios](./assets/desativar-ads-02.png)
 
 ### Passo 3: Confirmar desativação
 
 Um pop-up será exibido. Selecione o motivo mais adequado para a desativação da conta e, em seguida, clique em **"Desativar conta de anúncios"**. A tela será atualizada e a conta removida.
 
-![Confirmar desativação](/images/conexao-whatsapp/desativar-ads-03.png)
+![Confirmar desativação](./assets/desativar-ads-03.png)
 
 ## Considerações Finais
 

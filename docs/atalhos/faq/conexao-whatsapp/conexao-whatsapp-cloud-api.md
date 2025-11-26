@@ -17,13 +17,13 @@ Antes de iniciar a conexão **WhatsApp Cloud API**, certifique-se de atender aos
 
 No menu principal da **plataforma**, clique em **"Ajustes"**. Em seguida, acesse **"Conta"**.
 
-![Ajustes - Conta](/images/conexao-whatsapp/qr-08.png)
+![Ajustes - Conta](./assets/qr-08.png)
 
 ## Passo 2: Canais de Atendimento
 
-Em seguida clique em **"Canais de Atendimento"** e por fim no **ícone** ![](/images/conexao-whatsapp/icon-plus.png).
+Em seguida clique em **"Canais de Atendimento"** e por fim no **ícone** ![](./assets/icon-plus.png).
 
-![Canais de Atendimento](/images/conexao-whatsapp/qr-09.png)
+![Canais de Atendimento](./assets/qr-09.png)
 
 ## Passo 3: Inicie a conexão
 
@@ -33,39 +33,39 @@ Dentro da seção de **"Canais de Atendimento"**, clique em **"WhatsApp Cloud AP
 
 Clique em **"Entrar com Facebook"**.
 
-![Entrar com Facebook](/images/conexao-whatsapp/qr-11.png)
+![Entrar com Facebook](./assets/qr-11.png)
 
 ## Passo 5: Faça login com sua conta Facebook
 
 Faça login com sua conta **Facebook**.
 
-![Login Facebook](/images/conexao-whatsapp/qr-12.png)
+![Login Facebook](./assets/qr-12.png)
 
-![Autenticação Facebook](/images/conexao-whatsapp/qr-13.png)
+![Autenticação Facebook](./assets/qr-13.png)
 
 ## Passo 6: Selecione o Portfólio empresarial
 
 Selecione o **"Portfólio empresarial"** e confira os **dados da empresa** (nome, site e país), em seguida clique em **"Avançar"**.
 
-![Selecionar Portfólio](/images/conexao-whatsapp/qr-14.png)
+![Selecionar Portfólio](./assets/qr-14.png)
 
 ## Passo 7: Informe o número
 
 Informe o número do País (BR+55) e insira o número que deseja conectar.
 
-![Informar número](/images/conexao-whatsapp/qr-16.png)
+![Informar número](./assets/qr-16.png)
 
 ## Passo 8: Insira o código
 
 A Meta enviará um código para o **"aplicativo do WhatsApp"**. Insira o código recebido e clique em **"Avançar"**.
 
-![Inserir código](/images/conexao-whatsapp/qr-17.png)
+![Inserir código](./assets/qr-17.png)
 
 ## Passo 9: Confirme o Display name
 
 Confirme o **Display name** e o **fuso horário** em seguida clique em **"Avançar"**.
 
-![Display name](/images/conexao-whatsapp/qr-18.png)
+![Display name](./assets/qr-18.png)
 
 ## Passo 10: Recebimento do código de verificação
 
@@ -79,19 +79,19 @@ Insira o código de 6 dígitos recebido no WhatsApp Business e clique em **"Veri
 
 Clique em **adicionar forma de pagamento** em seguida clique em **"Continuar"**.
 
-![Forma de pagamento](/images/conexao-whatsapp/qr-22.png)
+![Forma de pagamento](./assets/qr-22.png)
 
 ## Passo 13: Selecione o número
 
 Para finalizar a conexão, selecione o número que está integrando e em seguida clique em **"Continuar"**.
 
-![Selecionar número](/images/conexao-whatsapp/qr-23.png)
+![Selecionar número](./assets/qr-23.png)
 
 ## Passo 14: Finalizar
 
 Clique em **"Finalizar"** para concluir o processo.
 
-![Finalizar](/images/conexao-whatsapp/qr-24.png)
+![Finalizar](./assets/qr-24.png)
 
 ## Considerações Finais
 

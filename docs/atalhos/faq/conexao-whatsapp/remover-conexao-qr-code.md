@@ -12,49 +12,49 @@ Em determinadas situações, pode ser necessário **remover um número de telefo
 
 Acesse o aplicativo **WhatsApp Business** no celular. Na tela inicial Toque nos três pontinhos no canto superior direito.
 
-![Menu WhatsApp Business](/images/conexao-whatsapp/remover-01.png)
+![Menu WhatsApp Business](./assets/remover-01.png)
 
 ## Passo 2: Abrir Configurações
 
 Clique na opção **Configurações**.
 
-![Configurações](/images/conexao-whatsapp/remover-02.png)
+![Configurações](./assets/remover-02.png)
 
 ## Passo 3: Acessar Conta
 
 Clique na opção **Conta**.
 
-![Conta](/images/conexao-whatsapp/remover-03.png)
+![Conta](./assets/remover-03.png)
 
 ## Passo 4: Plataforma Comercial
 
 Clique na opção **Plataforma Comercial**.
 
-![Plataforma Comercial](/images/conexao-whatsapp/remover-04.png)
+![Plataforma Comercial](./assets/remover-04.png)
 
 ## Passo 5: Iniciar desconexão
 
 O parceiro será exibido na tela. Clique na opção "**Toque para desconectar**".
 
-![Toque para desconectar](/images/conexao-whatsapp/remover-05.png)
+![Toque para desconectar](./assets/remover-05.png)
 
 ## Passo 6: Avançar
 
 Aparecerá uma nova tela com a opção **desconectar**, clique em **avançar**.
 
-![Avançar](/images/conexao-whatsapp/remover-06.png)
+![Avançar](./assets/remover-06.png)
 
 ## Passo 7: Confirmar desconexão
 
 Aparecerá uma nova tela com a confirmação da desconexão. Clique em **Desconectar**.
 
-![Desconectar](/images/conexao-whatsapp/remover-07.png)
+![Desconectar](./assets/remover-07.png)
 
 ## Passo 8: Confirmação final
 
 Por fim, a tela de **nova conexão será exibida**, confirmando que a **conexão anterior foi encerrada** e permitindo que um novo dispositivo seja conectado.
 
-![Conexão encerrada](/images/conexao-whatsapp/remover-08.png)
+![Conexão encerrada](./assets/remover-08.png)
 
 ## Considerações Finais
 

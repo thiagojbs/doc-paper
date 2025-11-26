@@ -1,0 +1,31 @@
+
+> doc-paper-vines@1.0.0 docs:build
+> vitepress build docs
+
+
+  vitepress v1.6.4
+
+- building client + server bundles...
+
+
+(!) Found dead link /guide/atalhos/faq/portfolio-empresarial in file atalhos/faq.md
+(!) Found dead link /guide/atalhos/faq/conexao-whatsapp in file atalhos/faq.md
+(!) Found dead link /guide/atalhos/faq/configuracoes-whatsapp in file atalhos/faq.md
+(!) Found dead link /guide/atalhos/faq/pagamentos in file atalhos/faq.md
+(!) Found dead link /guide/atalhos/faq/erros-e-problemas in file atalhos/faq.md
+(!) Found dead link /guide/atalhos/faq/integracoes in file atalhos/faq.md
+
+If this is expected, you can disable this check via config. Refer: https://vitepress.dev/reference/site-config#ignoredeadlinks
+
+x Build failed in 1.37s
+[31m✖[0m building client + server bundles...
+build error:
+[vitepress] 6 dead link(s) found.
+[vitepress] 6 dead link(s) found.
+    at Object.renderStart (file:///Users/thiagobarroncas/DOC%20Paper%20Vines/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:45027:15)
+    at file:///Users/thiagobarroncas/DOC%20Paper%20Vines/node_modules/rollup/dist/es/shared/node-entry.js:22451:40
+    at async Promise.all (index 0)
+    at async PluginDriver.hookParallel (file:///Users/thiagobarroncas/DOC%20Paper%20Vines/node_modules/rollup/dist/es/shared/node-entry.js:22361:9)
+    at async Bundle.generate (file:///Users/thiagobarroncas/DOC%20Paper%20Vines/node_modules/rollup/dist/es/shared/node-entry.js:20558:13)
+    at async file:///Users/thiagobarroncas/DOC%20Paper%20Vines/node_modules/rollup/dist/es/shared/node-entry.js:23438:27
+    at async catchUnfinishedHookActions (file:///Users/thiagobarroncas/DOC%20Paper%20Vines/node_modules/rollup/dist/es/shared/node-entry.js:22805:16)

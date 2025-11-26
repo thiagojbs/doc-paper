@@ -14,19 +14,19 @@ Administradores no **portfólio empresarial** têm permissões avançadas para g
 
 Abra o navegador e acesse o site oficial da **Meta Business Site**: <https://business.facebook.com/>. Faça login com a conta vinculada ao **portfólio empresarial** da sua empresa.
 
-![Meta Business Manager](/images/portfolio-empresarial/incluir-admin-01.png)
+![Meta Business Manager](./assets/incluir-admin-01.png)
 
 ## Passo 2: Convidar Pessoas
 
 No painel principal, clique na opção **Pessoas**. Em seguida, selecione a opção **+ Convidar Pessoas.**
 
-![Convidar Pessoas](/images/portfolio-empresarial/incluir-admin-02.png)
+![Convidar Pessoas](./assets/incluir-admin-02.png)
 
 ## Passo 3: Informar o e-mail
 
 Uma nova aba se abrirá, preencha o email da pessoa que será convidada para o **portfólio empresarial**. Clique em avançar.
 
-![Informar e-mail do convidado](/images/portfolio-empresarial/incluir-admin-03.png)
+![Informar e-mail do convidado](./assets/incluir-admin-03.png)
 
 ## Passo 4: Definir perfil de acesso
 
@@ -38,19 +38,19 @@ Na aba seguinte, defina o **perfil de acesso** do convidado. Você pode escolher
 
 Após definir o perfil, clique em **Avançar**.
 
-![Definir perfil de acesso](/images/portfolio-empresarial/incluir-admin-04.png)
+![Definir perfil de acesso](./assets/incluir-admin-04.png)
 
 ## Passo 5: Definir ativos de negócio
 
 Na aba, defina quais **ativos de negócio** o convidado terá acesso, como **páginas**, **contas de anúncios**, **catálogos de produtos** ou outros recursos disponíveis. Após definir, clique em **Avançar**.
 
-![Definir ativos de negócio](/images/portfolio-empresarial/incluir-admin-05.png)
+![Definir ativos de negócio](./assets/incluir-admin-05.png)
 
 ## Passo 6: Revisar e enviar convite
 
 Na última aba, revise todas as **informações preenchidas no convite** para garantir que estão corretas antes de enviá-lo. Clique em **enviar convite**.
 
-![Revisar e enviar convite](/images/portfolio-empresarial/incluir-admin-06.png)
+![Revisar e enviar convite](./assets/incluir-admin-06.png)
 
 ## Passo 7: Confirmação
 
@@ -58,7 +58,7 @@ Uma tela de confirmação do envio do convite será exibida.
 
 Após isso, a lista de usuários do **portfólio empresarial** será atualizada, exibindo o novo convidado com o status '**Pendente**', até que ele aceite o convite.
 
-![Confirmação do convite](/images/portfolio-empresarial/incluir-admin-07.png)
+![Confirmação do convite](./assets/incluir-admin-07.png)
 
 ## Considerações Finais
 

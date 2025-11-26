@@ -10,21 +10,21 @@ O Meta Business Manager é uma plataforma gratuita que permite gerenciar e acomp
 
 Faça login na sua conta da Business Manager: [**https://business.facebook.com/**](https://business.facebook.com/)
 
-No painel principal da lateral esquerda da **Meta Business Manager**, clique no ícone ![](/images/erros-e-problemas/suporte-icon.png)
+No painel principal da lateral esquerda da **Meta Business Manager**, clique no ícone ![](./assets/suporte-icon.png)
 
-![Ícone de ajuda](/images/erros-e-problemas/suporte-01.png)
+![Ícone de ajuda](./assets/suporte-01.png)
 
 ## Passo 2: Página Inicial do Suporte
 
 Uma tela com várias opções será exibida. Acesse o menu "Gerenciamento" e clique em **"Página Inicial do Suporte para Empresas"**.
 
-![Página Inicial do Suporte](/images/erros-e-problemas/suporte-02.png)
+![Página Inicial do Suporte](./assets/suporte-02.png)
 
 ## Passo 3: Verificar restrições
 
 Nesta página, será possível verificar se há alguma restrição no **portfólio empresarial**, na **página de anúncios** ou na **conta do WhatsApp**.
 
-![Verificar restrições](/images/erros-e-problemas/suporte-03.png)
+![Verificar restrições](./assets/suporte-03.png)
 
 ## Considerações Finais
 

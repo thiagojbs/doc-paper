@@ -19,37 +19,37 @@ Quando chegar o momento de **renovar o token**, a **plataforma** exibirá uma me
 
 Clique na opção **Alterar permissões**.
 
-![Alterar permissões](/images/integracoes/token-01.png)
+![Alterar permissões](./assets/token-01.png)
 
 ## Passo 2: Iniciar renovação
 
 A tela de integração será exibida. Basta clicar em **"Iniciar"** para prosseguir com a renovação do token.
 
-![Iniciar renovação](/images/integracoes/token-02.png)
+![Iniciar renovação](./assets/token-02.png)
 
 ## Passo 3: Entrar com o Facebook
 
 Clique em **"Entrar com o Facebook"** para prosseguir com a autenticação.
 
-![Entrar com Facebook](/images/integracoes/token-03.png)
+![Entrar com Facebook](./assets/token-03.png)
 
 ## Passo 4: Reconectar
 
 Um pop-up será exibido. Clique em **"Reconectar"** para restabelecer a integração com a conta.
 
-![Reconectar](/images/integracoes/token-04.png)
+![Reconectar](./assets/token-04.png)
 
 ## Passo 5: Selecionar contas
 
 Selecione as contas que deseja manter associadas à plataforma e, em seguida, clique em **"Continuar"**.
 
-![Selecionar contas](/images/integracoes/token-05.png)
+![Selecionar contas](./assets/token-05.png)
 
 ## Passo 6: Finalizar
 
 Por fim clique em **"Finalizar"** para concluir o processo.
 
-![Finalizar](/images/integracoes/token-06.png)
+![Finalizar](./assets/token-06.png)
 
 ## Considerações finais
 
