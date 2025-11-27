@@ -97,8 +97,30 @@ export default defineConfig({
             link: '/documentacao/atendimento',
             collapsed: true,
             items: [
-              { text: 'Central de Atendimento', link: '/documentacao/atendimento/central-de-atendimento' },
-              { text: 'Operações no Atendimento', link: '/documentacao/atendimento/operacoes-no-atendimento' },
+              {
+                text: 'Central de Atendimento',
+                link: '/documentacao/atendimento/central-de-atendimento',
+                collapsed: true,
+                items: [
+                  { text: 'Acessando a Plataforma pelo Aplicativo Móvel', link: '/documentacao/atendimento/central-de-atendimento/acessando-pelo-app' },
+                  { text: 'Acessando a Plataforma pela Web', link: '/documentacao/atendimento/central-de-atendimento/acessando-pela-web' },
+                  { text: 'Abas, Filtros e Ações em Massa', link: '/documentacao/atendimento/central-de-atendimento/abas-filtros-acoes' },
+                  { text: 'Dados do Contato e Gestão Rápida', link: '/documentacao/atendimento/central-de-atendimento/dados-contato-gestao' }
+                ]
+              },
+              {
+                text: 'Operações no Atendimento',
+                link: '/documentacao/atendimento/operacoes-no-atendimento',
+                collapsed: true,
+                items: [
+                  { text: 'Iniciar Atendimento', link: '/documentacao/atendimento/operacoes-no-atendimento/iniciar-atendimento' },
+                  { text: 'Assumir atendimento', link: '/documentacao/atendimento/operacoes-no-atendimento/assumir-atendimento' },
+                  { text: 'Transferir atendimento', link: '/documentacao/atendimento/operacoes-no-atendimento/transferir-atendimento' },
+                  { text: 'Concluir e Classificar Atendimento', link: '/documentacao/atendimento/operacoes-no-atendimento/concluir-classificar' },
+                  { text: 'Reiniciar atendimento', link: '/documentacao/atendimento/operacoes-no-atendimento/reiniciar-atendimento' },
+                  { text: 'Preferências de Arquivamento', link: '/documentacao/atendimento/operacoes-no-atendimento/preferencias-arquivamento' }
+                ]
+              },
               { text: 'Ferramentas de Interação', link: '/documentacao/atendimento/ferramentas-de-interacao' },
               { text: 'Integração com o CRM', link: '/documentacao/atendimento/integracao-com-o-crm' },
               { text: 'Grupos do Whatsapp', link: '/documentacao/atendimento/grupos-do-whatsapp' }
