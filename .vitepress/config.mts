@@ -164,8 +164,28 @@ export default defineConfig({
             link: '/documentacao/crm',
             collapsed: true,
             items: [
-              { text: 'Contato', link: '/documentacao/crm/contato' },
-              { text: 'Carteiras', link: '/documentacao/crm/carteiras' }
+              {
+                text: 'Contato',
+                link: '/documentacao/crm/contato',
+                collapsed: true,
+                items: [
+                  { text: 'Cadastrar contato', link: '/documentacao/crm/contato/cadastrar-contato' },
+                  { text: 'Importar Contatos em Lote', link: '/documentacao/crm/contato/importar-contatos-em-lote' },
+                  { text: 'Pesquisar contato', link: '/documentacao/crm/contato/pesquisar-contato' },
+                  { text: 'Bloquear ou Arquivar contato', link: '/documentacao/crm/contato/bloquear-ou-arquivar-contato' }
+                ]
+              },
+              {
+                text: 'Carteiras',
+                link: '/documentacao/crm/carteiras',
+                collapsed: true,
+                items: [
+                  { text: 'Alterar ou excluir uma carteira', link: '/documentacao/crm/carteiras/alterar-ou-excluir-uma-carteira' },
+                  { text: 'Criar uma nova carteira', link: '/documentacao/crm/carteiras/criar-uma-nova-carteira' },
+                  { text: 'Incluir contato na carteira', link: '/documentacao/crm/carteiras/incluir-contato-na-carteira' },
+                  { text: 'Tipos de carteiras', link: '/documentacao/crm/carteiras/tipos-de-carteiras' }
+                ]
+              }
             ]
           },
           {
