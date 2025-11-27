@@ -5,7 +5,7 @@ Enviar imagens na plataforma é uma funcionalidade essencial para enriquecer a c
 ## Passo 1: Acessar a Opção de Anexo
 
 1. Na tela de Atendimentos, selecione a conversa para a qual deseja enviar a imagem.
-2. Na barra de digitação, clique no ícone de Anexo ![](./assets/icone-anexo.png)
+2. Na barra de digitação, clique no **ícone de Anexo** (📎).
 3. No menu de opções que será exibido, escolha **"Imagem".**
 
 ![Menu de anexos](./assets/img-menu-anexo.png)
