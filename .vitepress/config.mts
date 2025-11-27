@@ -7,7 +7,16 @@ export default defineConfig({
   base: '/',
   description: "Documentação Oficial da Paper Vines",
   head: [
-    ['script', { src: 'https://unpkg.com/lucide@latest' }]
+    ['script', { src: 'https://unpkg.com/lucide@latest' }],
+    ['script', {}, `
+      (function() {
+        const saved = localStorage.getItem('vitepress-theme-appearance');
+        if (!saved) {
+          localStorage.setItem('vitepress-theme-appearance', 'light');
+          document.documentElement.classList.remove('dark');
+        }
+      })();
+    `]
   ],
   ignoreDeadLinks: true,
   themeConfig: {
@@ -249,7 +258,21 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/papervines' }
-    ]
+      { icon: 'github', link: 'https://github.com/thiagojbs/doc-paper' }
+    ],
+
+    outline: {
+      label: 'Nesta página'
+    },
+
+    docFooter: {
+      prev: 'Página anterior',
+      next: 'Próxima página'
+    },
+
+    footer: {
+      message: 'Licença Open Source. Sinta-se livre para copiar e clonar.',
+      copyright: 'Desenvolvido por: Thiago Barroncas | thiago@barroncas.com | (21) 99658-2140'
+    }
   }
 })
