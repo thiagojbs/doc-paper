@@ -1,0 +1,3 @@
+# Mensagens Rápidas
+
+Em breve...

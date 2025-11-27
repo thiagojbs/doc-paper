@@ -121,9 +121,42 @@ export default defineConfig({
                   { text: 'Preferências de Arquivamento', link: '/documentacao/atendimento/operacoes-no-atendimento/preferencias-arquivamento' }
                 ]
               },
-              { text: 'Ferramentas de Interação', link: '/documentacao/atendimento/ferramentas-de-interacao' },
-              { text: 'Integração com o CRM', link: '/documentacao/atendimento/integracao-com-o-crm' },
-              { text: 'Grupos do Whatsapp', link: '/documentacao/atendimento/grupos-do-whatsapp' }
+              {
+                text: 'Ferramentas de Interação',
+                link: '/documentacao/atendimento/ferramentas-de-interacao',
+                collapsed: true,
+                items: [
+                  { text: 'Enviar Imagem', link: '/documentacao/atendimento/ferramentas-de-interacao/enviar-imagem' },
+                  { text: 'Enviar Vídeo', link: '/documentacao/atendimento/ferramentas-de-interacao/enviar-video' },
+                  { text: 'Enviar Áudio', link: '/documentacao/atendimento/ferramentas-de-interacao/enviar-audio' },
+                  { text: 'Gravar Áudio', link: '/documentacao/atendimento/ferramentas-de-interacao/gravar-audio' },
+                  { text: 'Enviar Documento', link: '/documentacao/atendimento/ferramentas-de-interacao/enviar-documento' },
+                  { text: 'Modelo de Mensagem', link: '/documentacao/atendimento/ferramentas-de-interacao/modelo-de-mensagem' },
+                  { text: 'Mensagens Rápidas', link: '/documentacao/atendimento/ferramentas-de-interacao/mensagens-rapidas' },
+                  { text: 'Agendar Mensagem', link: '/documentacao/atendimento/ferramentas-de-interacao/agendar-mensagem' },
+                  { text: 'Solicitar Pagamento', link: '/documentacao/atendimento/ferramentas-de-interacao/solicitar-pagamento' },
+                  { text: 'Iniciar Chatbot', link: '/documentacao/atendimento/ferramentas-de-interacao/iniciar-chatbot' },
+                  { text: 'Notas da Conversa', link: '/documentacao/atendimento/ferramentas-de-interacao/notas-da-conversa' }
+                ]
+              },
+              {
+                text: 'Integração com o CRM',
+                link: '/documentacao/atendimento/integracao-com-o-crm',
+                collapsed: true,
+                items: [
+                  { text: 'Criar Cards no Painel', link: '/documentacao/atendimento/integracao-com-o-crm/criar-cards-no-painel' }
+                ]
+              },
+              {
+                text: 'Grupos do Whatsapp',
+                link: '/documentacao/atendimento/grupos-do-whatsapp',
+                collapsed: true,
+                items: [
+                  { text: 'Criar Grupos (API Oficial)', link: '/documentacao/atendimento/grupos-do-whatsapp/criar-grupos-api-oficial' },
+                  { text: 'Criar Grupos (API Não Oficial)', link: '/documentacao/atendimento/grupos-do-whatsapp/criar-grupos-api-nao-oficial' },
+                  { text: 'Gerenciar Grupos', link: '/documentacao/atendimento/grupos-do-whatsapp/gerenciar-grupos' }
+                ]
+              }
             ]
           },
           {
