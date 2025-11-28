@@ -13,67 +13,65 @@ Acesse a conta do **Facebook** vinculada ao seu Instagram.
 
 Clique em **Configurações** no menu superior direito.
 
-![Configurações](./assets/instagram-01.png)
+![Configurações](/images/erros-e-problemas/instagram-01.png)
 
 ## Passo 2: Configurações da Página
 
-Na lateral direita da tela, clique em **Configurações da Página**.
+Clique em **Configurações da Página**.
 
-![Configurações da Página](./assets/instagram-02.png)
+![Configurações da Página](/images/erros-e-problemas/instagram-02.png)
 
 ## Passo 3: Configurações avançadas de mensagens
 
-Clique em **"Configurações avançadas de mensagens"** para acessar as configurações de mensagens da página.
+No menu lateral esquerdo, clique em **Configurações avançadas de mensagens**.
 
-![Configurações avançadas](./assets/instagram-03.png)
+![Configurações avançadas](/images/erros-e-problemas/instagram-03.png)
 
 ## Passo 4: Verifique a conexão da plataforma
 
-Certifique-se de que a plataforma **hunion.io** está conectada à sua página do Facebook.
-
-Se não estiver conectada, remova o canal da plataforma e faça a reconexão.
+Verifique se a **plataforma** está listada em **Apps conectados**.
 
 Caso esteja conectada, clique em **Edit**.
 
-![Verificar conexão](./assets/instagram-04.png)
+![Verificar conexão](/images/erros-e-problemas/instagram-04.png)
 
 ## Passo 5: Ative todas as chaves
 
-Um **popup** será exibido. Verifique se todas as **chaves** estão **ligadas**. Caso alguma chave esteja desligada, ative-a e clique em **Salvar**.
+Certifique-se de que todas as chaves de permissão estejam ativadas.
 
-![Ativar chaves](./assets/instagram-05.png)
+![Ativar chaves](/images/erros-e-problemas/instagram-05.png)
 
 ## Passo 6: Contas Vinculadas
 
-No menu lateral esquerdo, role para baixo e clique em "**Contas Vinculadas**".
+Acesse as configurações do seu Instagram no celular e vá em **Contas Vinculadas**.
 
-![Contas Vinculadas](./assets/instagram-06.png)
+![Contas Vinculadas](/images/erros-e-problemas/instagram-06.png)
 
 ## Passo 7: Selecione o Instagram
 
-Na tela exibida, você verá as contas vinculadas à página do Facebook, como Instagram e WhatsApp. Clique na opção **Instagram**.
+Selecione a opção **Instagram**.
 
-![Selecionar Instagram](./assets/instagram-07.png)
+![Selecionar Instagram](/images/erros-e-problemas/instagram-07.png)
 
 ## Passo 8: Permitir acesso a mensagens
 
-Na tela de configurações do **Instagram**, localize a chave **Permitir acesso a mensagens do Instagram na Caixa de Entrada**.
+Vá em **Configurações e privacidade** > **Mensagens e respostas ao story** > **Controles de mensagem**.
 
 Certifique-se de que a chave esteja ligada para garantir que as mensagens do Instagram sejam recebidas na plataforma.
 
-![Permitir acesso](./assets/instagram-08.png)
+![Permitir acesso](/images/erros-e-problemas/instagram-08.png)
 
 ## Passo 9: Encaminhamento de conversas
 
-Volte nas configurações da página e entre em **Encaminhamento de conversas**.
+Verifique se a opção de **Encaminhamento de conversas** está ativa.
 
-![Encaminhamento de conversas](./assets/instagram-09.png)
+![Encaminhamento de conversas](/images/erros-e-problemas/instagram-09.png)
 
 ## Passo 10: Verificar app padrão
 
-Verifique se o app **hunion.io** está selecionado como app padrão. Se não estiver, altere o app atual.
+Verifique se o app padrão de mensagens está configurado corretamente.
 
-![App padrão](./assets/instagram-10.png)
+![App padrão](/images/erros-e-problemas/instagram-10.png)
 
 ## Dicas Adicionais
 

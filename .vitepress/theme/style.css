@@ -741,6 +741,111 @@
   background-repeat: no-repeat;
 }
 
+
+/* Mensagens Agendadas */
+.VPSidebarItem a[href*="/documentacao/apps/mensagens-agendadas"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='18' height='18' x='3' y='4' rx='2' ry='2'/%3E%3Cline x1='16' x2='16' y1='2' y2='6'/%3E%3Cline x1='8' x2='8' y1='2' y2='6'/%3E%3Cline x1='3' x2='21' y1='10' y2='10'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+.VPSidebarItem a[href*="modelo-para-mensagens-agendadas"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+.VPSidebarItem a[href*="como-gerenciar-os-agendamentos"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 3v18h18'/%3E%3Cpath d='m19 9-5 5-4-4-3 3'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+.VPSidebarItem a[href*="agendamentos-pelo-crm"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='7' height='7' x='3' y='3' rx='1'/%3E%3Crect width='7' height='7' x='14' y='3' rx='1'/%3E%3Crect width='7' height='7' x='14' y='14' rx='1'/%3E%3Crect width='7' height='7' x='3' y='14' rx='1'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Chat Interno */
+.VPSidebarItem a[href*="/documentacao/apps/chat-interno"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+.VPSidebarItem a[href*="ativar-e-desativar-funcionalidade"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect x='2' y='6' width='20' height='12' rx='6' ry='6'/%3E%3Ccircle cx='8' cy='12' r='2'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+.VPSidebarItem a[href*="tipos-de-conversa"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2'/%3E%3Ccircle cx='9' cy='7' r='4'/%3E%3Cpath d='M23 21v-2a4 4 0 0 0-3-3.87'/%3E%3Cpath d='M16 3.13a4 4 0 0 1 0 7.75'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Grupos do WhatsApp */
+.VPSidebarItem a[href*="/documentacao/apps/grupos-whatsapp"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2'/%3E%3Ccircle cx='9' cy='7' r='4'/%3E%3Cpath d='M22 21v-2a4 4 0 0 0-3-3.87'/%3E%3Cpath d='M16 3.13a4 4 0 0 1 0 7.75'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+.VPSidebarItem a[href*="habilitar-o-app"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Tempo de Segurança */
+.VPSidebarItem a[href*="/documentacao/apps/tempo-de-seguranca"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cpolyline points='12 6 12 12 16 14'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+.VPSidebarItem a[href*="como-corrigir-problemas"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z'/%3E%3Cpath d='M12 9v4'/%3E%3Cpath d='M12 17h.01'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Distribuição de atendimentos */
+.VPSidebarItem a[href*="/documentacao/apps/distribuicao-de-atendimentos"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='18' cy='5' r='3'/%3E%3Ccircle cx='6' cy='12' r='3'/%3E%3Ccircle cx='18' cy='19' r='3'/%3E%3Cline x1='8.59' x2='15.42' y1='13.51' y2='17.49'/%3E%3Cline x1='15.41' x2='8.59' y1='6.51' y2='10.49'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Transcrição de áudio com IA */
+.VPSidebarItem a[href*="/documentacao/apps/transcricao-de-audio"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M2 10v3'/%3E%3Cpath d='M6 6v11'/%3E%3Cpath d='M10 3v18'/%3E%3Cpath d='M14 8v7'/%3E%3Cpath d='M18 5v13'/%3E%3Cpath d='M22 10v3'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+.VPSidebarItem a[href*="degustacao-de-transcricao"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect x='3' y='8' width='18' height='4' rx='1'/%3E%3Cpath d='M12 8v13'/%3E%3Cpath d='M19 12v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7'/%3E%3Cpath d='M7.5 8a2.5 2.5 0 0 1 0-5A4.8 8 0 0 1 12 8a4.8 8 0 0 1 4.5-5 2.5 2.5 0 0 1 0 5'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
 /* Relatórios sub-items */
 .VPSidebarItem a[href*="relatorios/atendimento"] .text::before {
   content: "";
@@ -1072,6 +1177,382 @@
 .VPSidebarItem a[href*="tipos-de-carteiras"] .text::before {
   content: "";
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cline x1='8' y1='6' x2='21' y2='6'/%3E%3Cline x1='8' y1='12' x2='21' y2='12'/%3E%3Cline x1='8' y1='18' x2='21' y2='18'/%3E%3Cline x1='3' y1='6' x2='3.01' y2='6'/%3E%3Cline x1='3' y1='12' x2='3.01' y2='12'/%3E%3Cline x1='3' y1='18' x2='3.01' y2='18'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Apps Icons */
+
+/* Campanha (Pai) */
+.VPSidebarItem .items .VPSidebarItem.is-link>.item>.link>.text:contains("Campanha")::before,
+.VPSidebarItem .items .VPSidebarItem.menu-link>.item>.link>.text:contains("Campanha")::before {
+  /* Note: This selector is tricky because "Campanha" is text content. 
+     VitePress doesn't have a class for specific parents easily without href.
+     However, the previous implementation used href selectors.
+     Since "Campanha" is a parent with collapsed items, it might not have a direct link if it's just a label, 
+     but in config.mts I removed the link property from the parent "Campanha" object?
+     Wait, in config.mts: { text: 'Campanha', collapsed: true, items: [...] } -> No link.
+     So I cannot target it by href.
+     
+     Actually, looking at previous CSS, we used:
+     .VPSidebarItem a[href^="/documentacao/crm/contato"]::before
+     
+     But "Campanha" parent doesn't have a link now.
+     
+     If it doesn't have a link, it might be harder to target with CSS alone unless I rely on order (nth-child) which is brittle,
+     or if VitePress renders a button/div with text.
+     
+     Let's look at how "CRM" was targeted. 
+     { text: 'CRM', link: '/documentacao/crm', ... } -> It had a link.
+     
+     If I want an icon for a non-link parent, I might need to rely on the text content if CSS :has() is supported (it is in modern browsers)
+     or use a broader selector.
+     
+     However, for now, let's assume the user might click it? No, it's a collapsible.
+     
+     Let's check if I can target it.
+     
+     Actually, I can try to give it a link to a dummy page or the first item?
+     In the previous config, 'Campanha' had a link: '/documentacao/apps/campanha'.
+     In my new config, I removed the link from the parent 'Campanha' object to make it a pure collapsible section?
+     
+     Let's check my replacement content again.
+     {
+        text: 'Campanha',
+        collapsed: true,
+        items: [...]
+     }
+     
+     Yes, no link.
+     
+     If I want an icon, I should probably add a link to it, or use a very specific selector.
+     Or maybe I can just target the children.
+     
+     But the user image shows an icon for "Campanha" (Rocket).
+     
+     I will add a link to the parent items to make them clickable and targetable, 
+     pointing to the first sub-item or a main page if it existed.
+     
+     Since I didn't create a main "Campanha" page, I should probably create one or link to the first item.
+     
+     Alternatively, I can use the `class` property in sidebar items if VitePress supports it?
+     VitePress config supports `items` but not arbitrary classes on sidebar items easily.
+     
+     Let's try to target by `h2` or `p` text? No, sidebar items are `a` or `div`.
+     
+     Let's look at `style.css` again.
+     The user previously had:
+     .VPSidebarItem a[href*="gerenciar-grupos"] ...
+     
+     If I don't have a href, I can't use attribute selector.
+     
+     I will modify `config.mts` to add links to the parent items, pointing to a "index" page or the first item.
+     This is better for UX anyway (clicking the title opens the section).
+     
+     Let's create index pages for Campanha, Chatbot, Pagamentos?
+     Or just link to the first item.
+     
+     Let's link to the first item for now to avoid creating more files, OR create a simple index file.
+     Creating an index file is cleaner.
+     
+     Let's create:
+     docs/documentacao/apps/campanha.md
+     docs/documentacao/apps/chatbot.md
+     docs/documentacao/apps/pagamentos.md
+     
+     And update config to link to them.
+  */
+}
+
+
+/* Apps Icons */
+
+/* Campanha (Pai) */
+.VPSidebarItem a[href="/documentacao/apps/campanha"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z'/%3E%3Cpath d='m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z'/%3E%3Cpath d='M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0'/%3E%3Cpath d='M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Arquivar campanha */
+.VPSidebarItem a[href*="arquivar-campanha"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Criar modelo de mensagem */
+.VPSidebarItem a[href*="criar-modelo-mensagem"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='20' height='16' x='2' y='4' rx='2'/%3E%3Cpath d='m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7'/%3E%3Cpath d='M19 16v3'/%3E%3Cpath d='M16 19h6'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Criar nova campanha */
+.VPSidebarItem a[href*="criar-nova-campanha"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z'/%3E%3Cpolyline points='14 2 14 8 20 8'/%3E%3Cline x1='12' y1='18' x2='12' y2='12'/%3E%3Cline x1='9' y1='15' x2='15' y2='15'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Consultar campanha */
+.VPSidebarItem a[href*="consultar-campanha"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='20' height='14' x='2' y='3' rx='2'/%3E%3Cline x1='8' y1='21' x2='16' y2='21'/%3E%3Cline x1='12' y1='17' x2='12' y2='21'/%3E%3Cpath d='M4 13h16'/%3E%3Cpath d='m9 10 2-2 4 4'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Exportar campanha */
+.VPSidebarItem a[href*="exportar-campanha"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4'/%3E%3Cpolyline points='17 8 12 3 7 8'/%3E%3Cline x1='12' y1='3' x2='12' y2='15'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Riscos e custos */
+.VPSidebarItem a[href*="riscos-e-custos"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 2v20'/%3E%3Cpath d='M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Chatbot (Pai) */
+.VPSidebarItem a[href="/documentacao/apps/chatbot"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='18' height='10' x='3' y='11' rx='2'/%3E%3Ccircle cx='12' cy='5' r='2'/%3E%3Cpath d='M12 7v4'/%3E%3Cline x1='8' y1='16' x2='8' y2='16'/%3E%3Cline x1='16' y1='16' x2='16' y2='16'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Tipos de Chatbot */
+.VPSidebarItem a[href*="tipos-de-chatbot"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='7' height='7' x='3' y='3' rx='1'/%3E%3Crect width='7' height='7' x='14' y='3' rx='1'/%3E%3Crect width='7' height='7' x='14' y='14' rx='1'/%3E%3Crect width='7' height='7' x='3' y='14' rx='1'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Criando um chatbot */
+.VPSidebarItem a[href*="criando-um-chatbot"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M2 9h3a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2H2'/%3E%3Cpath d='M22 9h-3a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h3'/%3E%3Crect width='10' height='14' x='7' y='5' rx='2'/%3E%3Cpath d='M12 1v4'/%3E%3Cpath d='M12 19v4'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Copiar e Colar do Chatbot */
+.VPSidebarItem a[href*="copiar-e-colar-do-chatbot"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Pagamentos (Pai) */
+.VPSidebarItem a[href="/documentacao/apps/pagamentos"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cpath d='M16 8h-6a2 2 0 1 0 0 4h4a2 2 0 1 1 0 4H8'/%3E%3Cline x1='12' y1='18' x2='12' y2='22'/%3E%3Cline x1='12' y1='2' x2='12' y2='6'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Ativar App de pagamento */
+.VPSidebarItem a[href*="ativar-app-pagamento"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='20' height='14' x='2' y='5' rx='2'/%3E%3Cline x1='2' y1='10' x2='22' y2='10'/%3E%3Cpath d='M12 15h2'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Cancelar Estornar pagamento */
+.VPSidebarItem a[href*="cancelar-estornar-pagamento"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='18' height='14' x='3' y='5' rx='2'/%3E%3Cpath d='M3 10h18'/%3E%3Cpath d='m15 15-4 4'/%3E%3Cpath d='m11 15 4 4'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Consultar pagamento */
+.VPSidebarItem a[href*="consultar-pagamento"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'/%3E%3Cpath d='M12 8v3l2 2'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Integrar com banco Asaas */
+.VPSidebarItem a[href*="integrar-com-banco-asaas"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 21h18'/%3E%3Cpath d='M5 21v-7'/%3E%3Cpath d='M19 21v-7'/%3E%3Cpath d='M10 21v-4'/%3E%3Cpath d='M14 21v-4'/%3E%3Crect width='16' height='4' x='4' y='3' rx='1'/%3E%3Cpath d='M8 10v-3'/%3E%3Cpath d='M12 10v-3'/%3E%3Cpath d='M16 10v-3'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Sequência Icons */
+
+/* Sequência (Pai) */
+.VPSidebarItem a[href="/documentacao/apps/sequencia"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M21 12a9 9 0 0 1-9 9m9-9a9 9 0 0 0-9-9m9 9H3m9 9a9 9 0 0 1-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 0 1 9-9'/%3E%3C/svg%3E");
+  /* Using a globe/cycle icon as placeholder for sequence loop */
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8'/%3E%3Cpath d='M3 3v5h5'/%3E%3C/svg%3E");
+  /* Refresh/Cycle */
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Adicionar etapa */
+.VPSidebarItem a[href*="adicionar-etapa"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='7' height='7' x='3' y='3' rx='1'/%3E%3Crect width='7' height='7' x='14' y='3' rx='1'/%3E%3Crect width='7' height='7' x='14' y='14' rx='1'/%3E%3Crect width='7' height='7' x='3' y='14' rx='1'/%3E%3Cpath d='M14 14h7v7h-7z'/%3E%3Cpath d='M14 17h4'/%3E%3Cpath d='M16 15v4'/%3E%3C/svg%3E");
+  /* Grid with plus hint */
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Criar sequência */
+.VPSidebarItem a[href*="criar-sequencia"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z'/%3E%3Cpath d='M12 10v6'/%3E%3Cpath d='M9 13h6'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Desabilitar / Excluir sequência */
+.VPSidebarItem a[href*="desabilitar-excluir-sequencia"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M9.88 9.88a3 3 0 1 0 4.24 4.24'/%3E%3Cpath d='M10.73 5.08A10.43 10.43 0 0 1 12 5c7 0 10 7 10 7a13.16 13.16 0 0 1-1.67 2.68'/%3E%3Cpath d='M6.61 6.61A13.526 13.526 0 0 0 2 12s3 7 10 7c.44 0 .87-.03 1.28-.09'/%3E%3Cline x1='2' y1='2' x2='22' y2='22'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Finalizar sequência */
+.VPSidebarItem a[href*="finalizar-sequencia"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='20 6 9 17 4 12'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Incluir contato na sequência */
+.VPSidebarItem a[href*="incluir-contato-na-sequencia"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2'/%3E%3Ccircle cx='8.5' cy='7' r='4'/%3E%3Cline x1='20' y1='8' x2='20' y2='14'/%3E%3Cline x1='23' y1='11' x2='17' y2='11'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Objetivo da sequência */
+.VPSidebarItem a[href*="objetivo-da-sequencia"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8'/%3E%3Cpath d='M3 3v5h5'/%3E%3Cpath d='M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16'/%3E%3Cpath d='M16 16l5 5'/%3E%3Cpath d='M21 21v-5h-5'/%3E%3C/svg%3E");
+  /* Refresh/Sync icon */
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Reiniciar sequência */
+.VPSidebarItem a[href*="reiniciar-sequencia"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8'/%3E%3Cpath d='M3 3v5h5'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Visualizar contatos */
+.VPSidebarItem a[href*="visualizar-contatos"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2'/%3E%3Ccircle cx='9' cy='7' r='4'/%3E%3Cpath d='M23 21v-2a4 4 0 0 0-3-3.87'/%3E%3Cpath d='M16 3.13a4 4 0 0 1 0 7.75'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* IA - Agentes Inteligentes Icons */
+
+/* IA (Pai) */
+.VPSidebarItem a[href="/documentacao/apps/ia-agentes-inteligentes"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='18' height='10' x='3' y='11' rx='2'/%3E%3Ccircle cx='12' cy='5' r='2'/%3E%3Cpath d='M12 7v4'/%3E%3Cline x1='8' y1='16' x2='8' y2='16'/%3E%3Cline x1='16' y1='16' x2='16' y2='16'/%3E%3C/svg%3E");
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Novo Agente */
+.VPSidebarItem a[href*="novo-agente"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 8V4H8'/%3E%3Crect width='16' height='12' x='4' y='8' rx='2'/%3E%3Cpath d='M2 14h2'/%3E%3Cpath d='M20 14h2'/%3E%3Cpath d='M15 13v2'/%3E%3Cpath d='M9 13v2'/%3E%3C/svg%3E");
+  /* Robot head */
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Aba Configurações */
+.VPSidebarItem a[href*="aba-configuracoes"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z'/%3E%3C/svg%3E");
+  /* Wrench/Tools */
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Habilidades */
+.VPSidebarItem a[href*="habilidades"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cpolygon points='10 8 16 12 10 16 10 8'/%3E%3C/svg%3E");
+  /* Play button */
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Simular Tempo de Digitação */
+.VPSidebarItem a[href*="simular-tempo-de-digitacao"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 22h14'/%3E%3Cpath d='M5 2h14'/%3E%3Cpath d='M17 22v-4.172a2 2 0 0 0-.586-1.414L12 12l-4.414 4.414A2 2 0 0 0 7 17.828V22'/%3E%3Cpath d='M7 2v4.172a2 2 0 0 0 .586 1.414L12 12l4.414-4.414A2 2 0 0 0 17 6.172V2'/%3E%3C/svg%3E");
+  /* Hourglass */
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Indicador de Digitando */
+.VPSidebarItem a[href*="indicador-de-digitando"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='18' height='12' x='3' y='6' rx='2'/%3E%3Cpath d='M8 12h.01'/%3E%3Cpath d='M12 12h.01'/%3E%3Cpath d='M16 12h.01'/%3E%3C/svg%3E");
+  /* Typing dots */
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* Versões dos Agentes */
+/* Note: This is a collapsed parent item inside a collapsed parent. 
+   Targeting might be tricky if it doesn't have a link.
+   In config, I gave it no link: { text: 'Versões dos Agentes', collapsed: true, items: [...] }
+   I should probably add a link to it or target by text if possible, but text targeting is hard in CSS.
+   I will add a link to it in config first, similar to what I did for others.
+*/
+
+/* Versões dos Agentes (Pai) */
+.VPSidebarItem a[href="/documentacao/apps/ia-agentes-inteligentes/versoes-dos-agentes"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 3v18h18'/%3E%3Cpath d='M18.7 8l-5.1 5.2-2.8-2.7L7 14.3'/%3E%3C/svg%3E");
+  /* Chart/Versions */
+  background-size: contain !important;
+  background-repeat: no-repeat;
+}
+
+/* V.05, V.06, V.07 */
+.VPSidebarItem a[href*="versoes-dos-agentes/v05"] .text::before,
+.VPSidebarItem a[href*="versoes-dos-agentes/v06"] .text::before,
+.VPSidebarItem a[href*="versoes-dos-agentes/v07"] .text::before {
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%238b5cf6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cpath d='M12 16v-4'/%3E%3Cpath d='M12 8h.01'/%3E%3C/svg%3E");
+  /* Info/Dot */
   background-size: contain !important;
   background-repeat: no-repeat;
 }

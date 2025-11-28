@@ -236,25 +236,128 @@ export default defineConfig({
             text: 'Apps',
             collapsed: true,
             items: [
-              { text: 'Campanha', link: '/documentacao/apps/campanha' },
-              { text: 'Chatbot', link: '/documentacao/apps/chatbot' },
-              { text: 'Copiar e Colar do Chatbot na plataforma', link: '/documentacao/apps/copiar-e-colar-do-chatbot' },
-              { text: 'Pagamentos', link: '/documentacao/apps/pagamentos' },
-              { text: 'Sequência', link: '/documentacao/apps/sequencia' },
-              { text: 'IA - Agentes Inteligentes', link: '/documentacao/apps/ia-agentes-inteligentes' },
-              { text: 'Mensagens Agendadas', link: '/documentacao/apps/mensagens-agendadas' },
-              { text: 'Chat Interno', link: '/documentacao/apps/chat-interno' },
-              { text: 'Grupos do WhatsApp', link: '/documentacao/apps/grupos-do-whatsapp' },
-              { text: 'Tempo de Segurança', link: '/documentacao/apps/tempo-de-seguranca' },
-              { text: 'Distribuição de atendimentos', link: '/documentacao/apps/distribuicao-de-atendimentos' },
               {
-                text: 'Transcrição de audio com IA',
+                text: 'Campanha',
+                link: '/documentacao/apps/campanha',
+                collapsed: true,
+                items: [
+                  { text: 'Arquivar campanha', link: '/documentacao/apps/campanha/arquivar-campanha' },
+                  { text: 'Criar modelo de mensagem para campanha', link: '/documentacao/apps/campanha/criar-modelo-mensagem' },
+                  { text: 'Criar nova campanha', link: '/documentacao/apps/campanha/criar-nova-campanha' },
+                  { text: 'Consultar campanha', link: '/documentacao/apps/campanha/consultar-campanha' },
+                  { text: 'Exportar campanha', link: '/documentacao/apps/campanha/exportar-campanha' },
+                  { text: 'Riscos e custos da campanha', link: '/documentacao/apps/campanha/riscos-e-custos' }
+                ]
+              },
+              {
+                text: 'Chatbot',
+                link: '/documentacao/apps/chatbot',
+                collapsed: true,
+                items: [
+                  { text: 'Tipos de Chatbot', link: '/documentacao/apps/chatbot/tipos-de-chatbot' },
+                  { text: 'Criando um chatbot', link: '/documentacao/apps/chatbot/criando-um-chatbot' }
+                ]
+              },
+              { text: 'Copiar e Colar do Chatbot na plataforma', link: '/documentacao/apps/copiar-e-colar-do-chatbot' },
+              {
+                text: 'Pagamentos',
+                link: '/documentacao/apps/pagamentos',
+                collapsed: true,
+                items: [
+                  { text: 'Ativar App de pagamento', link: '/documentacao/apps/pagamentos/ativar-app-pagamento' },
+                  { text: 'Cancelar Estornar pagamento', link: '/documentacao/apps/pagamentos/cancelar-estornar-pagamento' },
+                  { text: 'Consultar pagamento', link: '/documentacao/apps/pagamentos/consultar-pagamento' },
+                  { text: 'Integrar com banco Asaas', link: '/documentacao/apps/pagamentos/integrar-com-banco-asaas' }
+                ]
+              },
+              {
+                text: 'Sequência',
+                link: '/documentacao/apps/sequencia',
+                collapsed: true,
+                items: [
+                  { text: 'Adicionar etapa', link: '/documentacao/apps/sequencia/adicionar-etapa' },
+                  { text: 'Criar sequência', link: '/documentacao/apps/sequencia/criar-sequencia' },
+                  { text: 'Desabilitar / Excluir sequência', link: '/documentacao/apps/sequencia/desabilitar-excluir-sequencia' },
+                  { text: 'Finalizar sequência', link: '/documentacao/apps/sequencia/finalizar-sequencia' },
+                  { text: 'Incluir contato na sequência', link: '/documentacao/apps/sequencia/incluir-contato-na-sequencia' },
+                  { text: 'Objetivo da sequência', link: '/documentacao/apps/sequencia/objetivo-da-sequencia' },
+                  { text: 'Reiniciar sequência', link: '/documentacao/apps/sequencia/reiniciar-sequencia' },
+                  { text: 'Visualizar contatos', link: '/documentacao/apps/sequencia/visualizar-contatos' }
+                ]
+              },
+              {
+                text: 'IA - Agentes Inteligentes',
+                link: '/documentacao/apps/ia-agentes-inteligentes',
+                collapsed: true,
+                items: [
+                  { text: 'Novo Agente', link: '/documentacao/apps/ia-agentes-inteligentes/novo-agente' },
+                  { text: 'Aba Configurações', link: '/documentacao/apps/ia-agentes-inteligentes/aba-configuracoes' },
+                  { text: 'Habilidades', link: '/documentacao/apps/ia-agentes-inteligentes/habilidades' },
+                  { text: 'Simular Tempo de Digitação', link: '/documentacao/apps/ia-agentes-inteligentes/simular-tempo-de-digitacao' },
+                  { text: 'Indicador de Digitando', link: '/documentacao/apps/ia-agentes-inteligentes/indicador-de-digitando' },
+                  {
+                    text: 'Versões dos Agentes',
+                    link: '/documentacao/apps/ia-agentes-inteligentes/versoes-dos-agentes',
+                    collapsed: true,
+                    items: [
+                      { text: 'V.05', link: '/documentacao/apps/ia-agentes-inteligentes/versoes-dos-agentes/v05' },
+                      { text: 'V.06', link: '/documentacao/apps/ia-agentes-inteligentes/versoes-dos-agentes/v06' },
+                      { text: 'V.07', link: '/documentacao/apps/ia-agentes-inteligentes/versoes-dos-agentes/v07' }
+                    ]
+                  }
+                ]
+              },
+              {
+                text: 'Mensagens Agendadas',
+                link: '/documentacao/apps/mensagens-agendadas',
+                collapsed: true,
+                items: [
+                  { text: 'Modelo para Mensagens Agendadas', link: '/documentacao/apps/mensagens-agendadas/modelo-para-mensagens-agendadas' },
+                  { text: 'Como Gerenciar os Agendamentos', link: '/documentacao/apps/mensagens-agendadas/como-gerenciar-os-agendamentos' },
+                  { text: 'Agendamentos pelo CRM', link: '/documentacao/apps/mensagens-agendadas/agendamentos-pelo-crm' }
+                ]
+              },
+              {
+                text: 'Chat Interno',
+                link: '/documentacao/apps/chat-interno',
+                collapsed: true,
+                items: [
+                  { text: 'Ativar e Desativar Funcionalidade', link: '/documentacao/apps/chat-interno/ativar-e-desativar-funcionalidade' },
+                  { text: 'Tipos de Conversa', link: '/documentacao/apps/chat-interno/tipos-de-conversa' }
+                ]
+              },
+              {
+                text: 'Grupos do WhatsApp',
+                link: '/documentacao/apps/grupos-whatsapp',
+                collapsed: true,
+                items: [
+                  { text: 'Habilitar o App', link: '/documentacao/apps/grupos-whatsapp/habilitar-o-app' }
+                ]
+              },
+              {
+                text: 'Tempo de Segurança',
+                link: '/documentacao/apps/tempo-de-seguranca',
+                collapsed: true,
+                items: [
+                  { text: 'Como Corrigir Problemas com a Sincronização', link: '/documentacao/apps/tempo-de-seguranca/como-corrigir-problemas' }
+                ]
+              },
+              {
+                text: 'Distribuição de atendimentos',
+                link: '/documentacao/apps/distribuicao-de-atendimentos',
+                collapsed: true,
+                items: [
+                  { text: 'Distribuição de atendimentos', link: '/documentacao/apps/distribuicao-de-atendimentos/distribuicao-de-atendimentos' }
+                ]
+              },
+              {
+                text: 'Transcrição de áudio com IA',
                 link: '/documentacao/apps/transcricao-de-audio-com-ia',
                 collapsed: true,
                 items: [
                   { text: 'Degustação de Transcrição de Áudio', link: '/documentacao/apps/transcricao-de-audio-com-ia/degustacao-de-transcricao-de-audio' }
                 ]
-              }
+              },
             ]
           },
           {
