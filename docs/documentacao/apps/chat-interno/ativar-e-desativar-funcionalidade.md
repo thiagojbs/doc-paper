@@ -31,7 +31,7 @@ Em seguida, será exibida uma tela de configuração. Ative a chave para habilit
 
 ### Passo 4: Acessar o Chat
 
-Após essa configuração, todos os usuários da equipe poderão utilizar o Chat Interno para se comunicar diretamente na plataforma. Ele fica localizado na lateral direita da plataforma, para abrir, basta clicar no **ícone** ![Ícone Chat](./assets/icone-chat.png).
+Após essa configuração, todos os usuários da equipe poderão utilizar o Chat Interno para se comunicar diretamente na plataforma. Ele fica localizado na lateral direita da plataforma, para abrir, basta clicar no **ícone de chat**.
 
 ![Chat Aberto](./assets/chat-aberto.png)
 
