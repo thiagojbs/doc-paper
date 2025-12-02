@@ -365,7 +365,16 @@ export default defineConfig({
             link: '/documentacao/relatorios',
             collapsed: true,
             items: [
-              { text: 'Atendimento', link: '/documentacao/relatorios/atendimento' },
+              {
+                text: 'Atendimento',
+                link: '/documentacao/relatorios/atendimento',
+                collapsed: true,
+                items: [
+                  { text: 'Como exportar relatório na plataforma', link: '/documentacao/relatorios/atendimento/como-exportar-relatorio-na-plataforma' },
+                  { text: 'Como exportar mensagens na plataforma', link: '/documentacao/relatorios/atendimento/como-exportar-mensagens-na-plataforma' },
+                  { text: 'Como concluir atendimentos em massa', link: '/documentacao/relatorios/atendimento/como-concluir-atendimentos-em-massa' }
+                ]
+              },
               { text: 'Consumo de Infraestrutura', link: '/documentacao/relatorios/consumo-de-infraestrutura' }
             ]
           },
@@ -374,11 +383,63 @@ export default defineConfig({
             link: '/documentacao/ajustes',
             collapsed: true,
             items: [
-              { text: 'Conta', link: '/documentacao/ajustes/conta' },
-              { text: 'Equipes', link: '/documentacao/ajustes/equipes' },
-              { text: 'Integrações', link: '/documentacao/ajustes/integracoes' },
-              { text: 'Modelo de Mensagens', link: '/documentacao/ajustes/modelo-de-mensagens' },
-              { text: 'Usuários', link: '/documentacao/ajustes/usuarios' }
+              {
+                text: 'Conta',
+                link: '/documentacao/ajustes/conta',
+                collapsed: true,
+                items: [
+                  { text: 'Cadastrar Instagram / Facebook Messenger', link: '/documentacao/ajustes/conta/cadastrar-instagram-facebook-messenger' },
+                  { text: 'Dados da conta', link: '/documentacao/ajustes/conta/dados-da-conta' },
+                  { text: 'Horário de atendimento', link: '/documentacao/ajustes/conta/horario-de-atendimento' },
+                  { text: 'Processo de dar permissão para reconectar o número', link: '/documentacao/ajustes/conta/processo-permissao-reconectar-numero' },
+                  { text: 'Remover Canal de Atendimento', link: '/documentacao/ajustes/conta/remover-canal-de-atendimento' }
+                ]
+              },
+              {
+                text: 'Equipes',
+                link: '/documentacao/ajustes/equipes',
+                collapsed: true,
+                items: [
+                  { text: 'Cadastrar equipe', link: '/documentacao/ajustes/equipes/cadastrar-equipe' },
+                  { text: 'Distribuição e transbordo de atendimento', link: '/documentacao/ajustes/equipes/distribuicao-e-transbordo-de-atendimento' },
+                  { text: 'Relação de acessos x conversas', link: '/documentacao/ajustes/equipes/relacao-de-acessos-x-conversas' },
+                  { text: 'Tipo de associação usuário x supervisor', link: '/documentacao/ajustes/equipes/tipo-de-associacao-usuario-x-supervisor' }
+                ]
+              },
+              {
+                text: 'Integrações',
+                link: '/documentacao/ajustes/integracoes',
+                collapsed: true,
+                items: [
+                  { text: 'Botão do WhatsApp e tag de rastreamento', link: '/documentacao/ajustes/integracoes/botao-whatsapp-tag-rastreamento' }
+                ]
+              },
+              {
+                text: 'Modelo de Mensagens',
+                link: '/documentacao/ajustes/modelo-de-mensagens',
+                collapsed: true,
+                items: [
+                  { text: 'Como criar modelo de mensagem', link: '/documentacao/ajustes/modelo-de-mensagens/como-criar-modelo-de-mensagem' },
+                  { text: 'Conceito de janela de conversa (cobrança)', link: '/documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-conversa-cobranca' },
+                  { text: 'Conceito de janela de troca de mensagem', link: '/documentacao/ajustes/modelo-de-mensagens/conceito-de-janela-de-troca-de-mensagem' },
+                  { text: 'Editar modelos de mensagem', link: '/documentacao/ajustes/modelo-de-mensagens/editar-modelos-de-mensagem' },
+                  { text: 'Franquia e custo de mensagem', link: '/documentacao/ajustes/modelo-de-mensagens/franquia-e-custo-de-mensagem' },
+                  { text: 'Mensagens com botões, imagem, vídeo e documento', link: '/documentacao/ajustes/modelo-de-mensagens/mensagens-com-botoes-imagem-video-e-documento' },
+                  { text: 'Mensagens de Marketing x Mensagens de Utilidade', link: '/documentacao/ajustes/modelo-de-mensagens/mensagens-de-marketing-x-mensagens-de-utilidade' },
+                  { text: 'Parâmetros e personalização de mensagens', link: '/documentacao/ajustes/modelo-de-mensagens/parametros-e-personalizacao-de-mensagens' },
+                  { text: 'Tipos de modelo de mensagem', link: '/documentacao/ajustes/modelo-de-mensagens/tipos-de-modelo-de-mensagem' }
+                ]
+              },
+              {
+                text: 'Usuários',
+                link: '/documentacao/ajustes/usuarios',
+                collapsed: true,
+                items: [
+                  { text: 'Cadastrar usuários', link: '/documentacao/ajustes/usuarios/cadastrar-usuarios' },
+                  { text: 'Editar foto do usuário', link: '/documentacao/ajustes/usuarios/editar-foto-do-usuario' },
+                  { text: 'Tipos de perfis de usuários', link: '/documentacao/ajustes/usuarios/tipos-de-perfis-de-usuarios' }
+                ]
+              }
             ]
           },
           {
